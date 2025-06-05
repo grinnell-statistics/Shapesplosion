@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 0637afb3d031fcd48bad7480439427dd
+  - enabled: 1
+    path: Assets/Scenes/GameOptionsScene.unity
+    guid: 75ea77a96a4cf514d8e33884eecbb505
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/15Shapes.unity
+    guid: 53b0de54eb5cfbe43b172f1f212a46cd
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/18ShapesScene(2).unity
+    guid: 7265dbf538bc9f540b21bca16455cb12
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/21ShapesScene.unity
+    guid: 89471bbcad119db41b9f1de600acb6af
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/24ShapesScene.unity
+    guid: 26ff55b40fcb48a4e9bdcb49dab572eb
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/TimeOverScene.unity
+    guid: dc65e2e8f83282e4fa6ec3f76d021442
+  - enabled: 1
+    path: Assets/Scenes/TooLongScene.unity
+    guid: 2a2f3c07874331946a5e4140162fd7ac
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: 412ea4741938fb84191d7787dedc178e
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
