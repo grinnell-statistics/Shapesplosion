@@ -25,8 +25,8 @@
 using UnityEngine;
 using System.Collections.Generic;
 using UnityEngine.Rendering;
-using UnityEngine.VR;
-
+//using UnityEngine.VR; commenting out an unused line that gave compilation errors: Will delete after consulting team
+using UnityEngine.XR;
 namespace cakeslice
 {
     [DisallowMultipleComponent]
