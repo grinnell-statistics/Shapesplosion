@@ -217,7 +217,7 @@ public class MainSceneScript : MonoBehaviour
 
     public void GetGameData()
     {
-        string Url = "http://shiny.grinnell.edu/shapesplosion/";
+        string Url = "https://stat2games.sites.grinnell.edu/data/shapesplosion/shapesplosion.php";
         #if !UNITY_EDITOR
             OpenWindow(Url);
         #endif
